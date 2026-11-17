@@ -4,7 +4,7 @@
 </div>
 
 <br/>
-*A passionate AI & Data Science Student || Learner || Nancy Ahake from India*
+**A passionate AI & Data Science Student || Learner || Nancy Ahake from India**
 
 
 Email Me 👉 ✉️ **ahakenancy@gmail.com** For Collaboration/Project or Anything Else. 😊😊
